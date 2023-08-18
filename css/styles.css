@@ -1,11 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
+    background-color: #2E2F42;
 }
 .main-page {
     background: #2E2F42;
-    width: 1440 px;
-    height: 600 px;
-    flex-shrink: 0;
 } 
