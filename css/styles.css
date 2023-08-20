@@ -19,6 +19,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03;
     text-transform: uppercase;
+    text-decoration: none
 }
 .logo-item {
     color: #4D5AE5;
@@ -29,6 +30,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    text-decoration: none
 }
 .menu-link {
     color: #2E2F42;
@@ -168,6 +170,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03;
     text-transform: uppercase;
+    text-decoration: none
 }
 .text-footer {
    color: #F4F4FD;
