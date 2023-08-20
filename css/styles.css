@@ -30,6 +30,9 @@ body {
     text-transform: uppercase;
     text-decoration: none
 }
+.menu-item {
+   color: #2e2f42
+}
 .menu-link {
     
     color: #2E2F42;
@@ -80,6 +83,9 @@ address {
    background-color:  #404BBF;
 }
 
+.desc-text {
+    background-color: #FFFFFF
+}
 .menu-link, .address:hover,
 .menu-link, .address:focus {
     color: #404BBF;
