@@ -20,9 +20,6 @@ body {
     text-transform: uppercase;
     text-decoration: none
 }
-.link-logo {
-     color: #2e2f42;
-}
    
 .logo {
     color: #4D5AE5;
@@ -37,8 +34,10 @@ body {
 .menu-item {
    color: #2e2f42
 }
+.link {
+    color: #2e2f42;
+}
 .menu-link {
-    
     color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
@@ -94,7 +93,9 @@ address {
 .menu-link, .address:focus {
     color: #404BBF;
 }
-
+.list-page-team {
+    background-color: #FFFFFF;
+}
 .headlines {
     color: #2E2F42;
     font-size: 20px;
