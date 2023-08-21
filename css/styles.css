@@ -86,8 +86,13 @@ address {
 .desc-text {
     background-color: #FFFFFF
 }
-.menu-link .address:hover,
-.menu-link .address:focus {
+.menu .menu-item:hover,
+.menu .menu-item:focus {
+    color: #404BBF;
+}
+
+.address:hover,
+.address:focus {
     color: #404BBF;
 }
 .list-page-team {
